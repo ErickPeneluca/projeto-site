@@ -1,7 +1,7 @@
 # **Projeto Teste**
 ---
 ## Teste versionamento de código.
-
+* **https://erickpeneluca.github.io/projeto-site/** (E esse foi o resultado final.) 😃
 * É apenas um teste de aprendizado.
 * Esse projeto foi criado com fins de testar meu conhecimento.
 - [x] Branch
@@ -19,3 +19,5 @@
 
 `Testando versionamento de códigos`
                📖
+               
+segue ai pra acompanhar meu desenvolvimento.
